@@ -1,0 +1,52 @@
+# Defines the name of the Flutter project.
+name: kit721_assignment4
+
+# Provides a description for the Flutter project.
+description: Flutter project for assignment3
+
+# Prevents the package from being accidentally published to pub.dev.
+publish_to: 'none'
+
+# Defines the version and build number for the application.
+version: 1.0.0+1
+
+# Specifies the Dart SDK requirements for the application.
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+# Lists all packages that the application depends on.
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core:
+  firebase_storage: ^11.2.2
+  http: any
+  cloud_firestore:
+  cupertino_icons: ^1.0.2
+  intl: ^0.17.0
+  share: ^2.0.4
+  image_picker: ^0.8.4+5
+  provider:
+
+# Lists all development packages that the application depends on.
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: "^0.9.2"
+
+# The following section is specific to Flutter applications.
+flutter:
+
+  # Specifies the path to the app icon.
+  assets:
+    - assets/app_icon.png
+
+  # Includes the Material Icons font in the application.
+  uses-material-design: true
+
+# Defines the application's icon for Android and iOS.
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/app_icon.png"

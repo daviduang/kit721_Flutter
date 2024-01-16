@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1078940649167",
+    "project_id": "kit721-assignment4",
+    "storage_bucket": "kit721-assignment4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078940649167:android:a87ee60b3e8efdd0d259ba",
+        "android_client_info": {
+          "package_name": "au.utas.edu.ywang150.kit721_assignment4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078940649167-9uhdr0ndvk5c089sgmq3eqrti2qef2di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpI_NOiHZEIdh6tdtzBFtKNwLZSYs_7qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078940649167-9uhdr0ndvk5c089sgmq3eqrti2qef2di.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1078940649167-52nmhsfc3g8vtu3in63ls0crp746qdv2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tutorial13"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078940649167:android:b1fb1506c3f88c78d259ba",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tutorial_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078940649167-9uhdr0ndvk5c089sgmq3eqrti2qef2di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpI_NOiHZEIdh6tdtzBFtKNwLZSYs_7qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078940649167-9uhdr0ndvk5c089sgmq3eqrti2qef2di.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1078940649167-52nmhsfc3g8vtu3in63ls0crp746qdv2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tutorial13"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
